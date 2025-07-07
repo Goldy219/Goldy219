@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages, Skills and Tools::</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css,python,c)](https://skillicons.dev)
 
 <h3 align="left">&</h3>
 
