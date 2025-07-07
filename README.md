@@ -4,11 +4,11 @@
 
 <a href="mailto:martin.pisarov2005@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h3 align="left">Languages, Skills and Tools::</h3>
-
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,hibernate,cpp,workers,java,maven,spring,js,ts,nodejs,npm,rabbitmq,jquery,mysql,postgres,redis,sqlite,html,css,bootstrap,nextjs,react,angular,nginx)](https://skillicons.dev)
+<h3 align="left">Languages, Skills and Tools::</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,html,css)](https://skillicons.dev)
 
 <h3 align="left">&</h3>
 
