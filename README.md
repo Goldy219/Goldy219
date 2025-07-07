@@ -12,7 +12,7 @@
 
 <h3 align="left">&</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,azure,firebase,docker,kubernetes,elasticsearch,git,github,githubactions,grafana,prometheus,terraform,linux,windows,figma,gitlab,jenkins,vscode,visualstudio,idea,rider,webstorm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,windows,vscode,visualstudio)](https://skillicons.dev)
 
 ---
 <!--
