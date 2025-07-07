@@ -1,5 +1,13 @@
 ## Hi there 👋
+<h3 align="left">Languages, Skills and Tools::</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,hibernate,cpp,workers,java,maven,spring,js,ts,nodejs,npm,rabbitmq,jquery,mysql,postgres,redis,sqlite,html,css,bootstrap,nextjs,react,angular,nginx)](https://skillicons.dev)
+
+<h3 align="left">&</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,azure,firebase,docker,kubernetes,elasticsearch,git,github,githubactions,grafana,prometheus,terraform,linux,windows,figma,gitlab,jenkins,vscode,visualstudio,idea,rider,webstorm,postman)](https://skillicons.dev)
+
+---
 <!--
 **Goldy219/Goldy219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
