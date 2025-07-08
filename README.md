@@ -6,6 +6,8 @@
 
 ---
 
+<img src="https://as1.ftcdn.net/v2/jpg/02/63/90/38/1000_F_263903832_viPpeMU5w5luvheHlIeKviS9bkLOt5Ye.jpg">
+
 <h3 align="left">Languages, Skills and Tools::</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,python,c)](https://skillicons.dev)
