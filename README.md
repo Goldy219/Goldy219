@@ -2,6 +2,19 @@
 
 ---
 
+<script type="text/javascript" charset="utf-8">
+    let a;
+    let time;
+    setInterval(() => {
+      a = new Date();
+      time = a.getHours() + ':' + a.getMinutes() + ':' + a.getSeconds();
+      document.getElementById('time').innerHTML = time;
+    }, 1000);
+  </script>
+  <span id="time"></span>
+
+---
+
 <a href="mailto:martin.pisarov2005@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
