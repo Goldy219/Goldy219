@@ -5,8 +5,10 @@
 <a href="mailto:martin.pisarov2005@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
+<img src="https://as1.ftcdn.net/v2/jpg/02/63/90/38/1000_F_263903832_viPpeMU5w5luvheHlIeKviS9bkLOt5Ye.jpg" alt="fixing a pc">
+<p align="left">Мога да поправям компютри и хардуерни проблеми</p>
 
-<img src="https://as1.ftcdn.net/v2/jpg/02/63/90/38/1000_F_263903832_viPpeMU5w5luvheHlIeKviS9bkLOt5Ye.jpg">
+---
 
 <h3 align="left">Languages, Skills and Tools::</h3>
 
