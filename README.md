@@ -1,9 +1,5 @@
 ## Hi there 👋
 
----
-
-
----
 
 <a href="mailto:martin.pisarov2005@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
