@@ -6,6 +6,8 @@
 
 ---
 
+<p>Мога да поправям компютри и хардуерни проблеми</p>
+
 <h3 align="left">Languages, Skills and Tools::</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,python,c)](https://skillicons.dev)
